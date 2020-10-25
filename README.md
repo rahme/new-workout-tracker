@@ -13,7 +13,7 @@ Have Node.js and MongoDB installed. Download the files and type into terminal "n
 
 ## Usage
 This app is meant to be used to show the capibilities of MySQL, Handlebars, and Express.
-![Image of Dashboard](https://github.com/rahme/workout-tracker/blob/main/public/screenshots/dashboard.png?raw=true)
+![Image of Dashboard](https://github.com/rahme/new-workout-tracker/blob/master/public/screenshots/dashboard.png?raw=true)
 ![Image of Workout](https://github.com/rahme/workout-tracker/blob/main/public/screenshots/tracker.png?raw=true)
 
 ## License
